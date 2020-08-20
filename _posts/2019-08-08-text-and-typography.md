@@ -1,9 +1,9 @@
 ---
 title: Text and Typography
 author: Cotes Chung
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+date: 2019-08-08 11:33:00 +0900 
+categories: [삽질, Tutorial]
+tags: [base]
 math: true
 ---
 
