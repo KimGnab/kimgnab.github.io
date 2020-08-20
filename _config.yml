@@ -27,8 +27,8 @@ avatar: /assets/img/sample/avatar.jpg   # support internet resources
 github:
   username: kimgnab            # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+instatram:
+  username: kim._.bang
 
 social:
   name: 김병현                  # it will shows as the copyright owner in Footer
